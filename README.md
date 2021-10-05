@@ -2,7 +2,7 @@
 - 👀 I’m interested in games, D&D and... that's about it honestly
 - 🌱 I’m currently learning Computer Games Programming
 - 📫 How to reach me:
-artyMios#1614 on discord
+artyMios#1614 on discord \n
 artymios on twitch/reddit/steam
 
 <!---
