@@ -2,5 +2,5 @@
 - 👀 I’m interested in video games, D&D and role-playing in general
 - 🌱 I’m currently learning Computer Games Programming
 - 📫 How to reach me:
-artyMios#1614 on Discord, artyMios on Twitter, Bartosz Ankiel on LinkedIn
-- 🎯 My portfolio: artymios.github.io (link under my profile picture)
+artymios on Discord, [BartoszAnkiel](https://twitter.com/BartoszAnkiel) on Twitter, [Bartosz Ankiel](https://www.linkedin.com/in/bartosz-ankiel-571428263) on LinkedIn
+- 🎯 My portfolio: [artymios.github.io](https://artymios.github.io)
