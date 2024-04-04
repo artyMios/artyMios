@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @artyMios
+- 👋 Hi, my name is Bartosz Ankiel! I also go by artymios online
 - 👀 I’m interested in video games, D&D and role-playing in general
 - 🌱 I’m currently learning Computer Games Programming
 - 📫 How to reach me:
